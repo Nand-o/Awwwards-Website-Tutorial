@@ -105,7 +105,7 @@ body {
     width: 100%;
     transform-origin: bottom right;
     transform: scaleX(0);
-    background-color: theme(colors.neutral.800);
+    background-color: theme(colors.white);
     transition-property: transform;
     transition-duration: 300ms;
     transition-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);
